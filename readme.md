@@ -22,7 +22,7 @@ Amante da tecnologia, atualmente estudando Sistemas para Internet no IFRS
 ### 💻 Tecnologias
 
 
-#### Front-end & Design
+#### ✏️ Front-end & Design
 <div style="display: flex;" ><br>
 <img style="padding:1px" align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 
@@ -32,7 +32,7 @@ Amante da tecnologia, atualmente estudando Sistemas para Internet no IFRS
 </div>
 <br>
 
-#### Linguagens de programação + Frameworks
+#### 📔 Linguagens de programação + Frameworks
 <div style="display: flex;" ><br>
 <img style="padding:1px" align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   
@@ -46,7 +46,7 @@ Amante da tecnologia, atualmente estudando Sistemas para Internet no IFRS
 </div>
 <br>
 
-#### Crypto
+#### 💰 Crypto
 <div style="display: flex;" ><br>
 <img style="padding:1px" align="center" alt="btc" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white">
 
