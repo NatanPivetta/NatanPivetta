@@ -7,17 +7,14 @@
 
 [![NatanPivetta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natanpivetta&show_icons=true&theme=dark)](https://github.com/Natanpivetta/github-readme-stats)
 
-<style>
-        img {padding: 2px;}
-
-
-</style>
-
 ## Tecnologias
 
 
 #### Front-end & Design
 <div style="display: flex;" ><br>
+<style>
+        img {padding: 1px;}
+</style>
 <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 
 <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
