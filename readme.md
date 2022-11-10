@@ -1,12 +1,14 @@
-### Olá eu sou o Natan Pivetta 😁
+## Olá eu sou o Natan Pivetta 😁
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/natan-pivetta-24041a249)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/natanpivetta)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](natan.silva99@hotmail.com)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/kappozin)
+<br>
+<br>
 
 
-### Sobre mim
+### ℹ️ Sobre mim
 Amante da tecnologia, atualmente estudando Sistemas para Internet no IFRS
 <br>
 <picture align="center">
@@ -15,8 +17,9 @@ Amante da tecnologia, atualmente estudando Sistemas para Internet no IFRS
 
 
 [![NatanPivetta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natanpivetta&show_icons=true&theme=dark)](https://github.com/Natanpivetta/github-readme-stats)
-
-## Tecnologias
+<br>
+<br>
+### 💻 Tecnologias
 
 
 #### Front-end & Design
