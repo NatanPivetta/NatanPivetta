@@ -5,6 +5,15 @@
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](natan.silva99@hotmail.com)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/kappozin)
 
+
+### Sobre mim
+Amante da tecnologia, atualmente estudando Sistemas para Internet no IFRS
+<br>
+<picture align="center">
+  <img style="padding: 2px;background:#0DD100" alt="ifrs" src="https://ifrs.edu.br/wp-content/uploads/2022/08/Logo-IFRS-cores-fundo-preto-Horizontal.png" width="100px" width="50px" >
+</picture>
+
+
 [![NatanPivetta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natanpivetta&show_icons=true&theme=dark)](https://github.com/Natanpivetta/github-readme-stats)
 
 ## Tecnologias
