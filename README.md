@@ -28,11 +28,22 @@ Amante da tecnologia, atualmente estudando Sistemas para Internet no IFRS
 <picture align="center">
   <img style="padding: 2px;background-color:#0DD100" alt="ifrs" src="https://ifrs.edu.br/wp-content/uploads/2022/08/Logo-IFRS-cores-fundo-preto-Horizontal.png" width="200px" width="100px" >
 </picture>
+<br>
 
 
 [![NatanPivetta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natanpivetta&show_icons=true&theme=dark)](https://github.com/Natanpivetta/github-readme-stats)
 <br>
+#### Interesses
+- Back-end
+- Banco de dados
+- Cyber Segurança
+- Criptomoedas
+- Mercado Financeiro
+- Música
+- Jogos
 <br>
+<br>
+
 ### 💻 Tecnologias
 
 
