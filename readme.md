@@ -2,15 +2,19 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/natan-pivetta-24041a249)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/natanpivetta)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:natan.silva99@hotmail.com)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](natan.silva99@hotmail.com)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/kappozin)
 
 [![NatanPivetta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natanpivetta&show_icons=true&theme=dark)](https://github.com/Natanpivetta/github-readme-stats)
 
-## Tecnologias
 <style>
         img {padding: 2px;}
+
+
 </style>
+
+## Tecnologias
+
 
 #### Front-end & Design
 <div style="display: flex;" ><br>
@@ -45,7 +49,4 @@
 <img align="center" alt="doge" src="https://img.shields.io/badge/dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white">
 
 <img align="center" alt="binance" src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white">
-</div>
-
-
 </div>
