@@ -48,10 +48,8 @@ Amante da tecnologia, atualmente estudando Sistemas para Internet no IFRS
 <br>
 
 ### 💻 Tecnologias
-
-
 #### ✏️ Front-end & Design
-<div style="display: flex;" ><br>
+<div style="display: flex;" >
 <img style="padding:1px" align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 
 <img style="padding:1px" align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
@@ -61,7 +59,7 @@ Amante da tecnologia, atualmente estudando Sistemas para Internet no IFRS
 <br>
 
 #### 📔 Linguagens de programação + Frameworks
-<div style="display: flex;" ><br>
+<div style="display: flex;" >
 <img style="padding:1px" align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   
 <img style="padding:1px" align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -75,7 +73,7 @@ Amante da tecnologia, atualmente estudando Sistemas para Internet no IFRS
 <br>
 
 #### 💰 Crypto
-<div style="display: flex;" ><br>
+<div style="display: flex;" >
 <img style="padding:1px" align="center" alt="btc" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white">
 
 <img style="padding:1px" align="center" alt="eth" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
