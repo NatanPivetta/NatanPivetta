@@ -44,6 +44,7 @@ Amante da tecnologia, atualmente estudando Sistemas para Internet no IFRS
 - Mercado Financeiro
 - Música
 - Jogos
+- 
 <br>
 <br>
 
