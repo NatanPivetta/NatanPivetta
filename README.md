@@ -31,7 +31,7 @@ Amante da tecnologia, atualmente estudando Sistemas para Internet no IFRS
 <br>
 
 
-[![NatanPivetta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natanpivetta&show_icons=false&theme=dark)](https://github.com/Natanpivetta/github-readme-stats)
+[![NatanPivetta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natanpivetta&show_icons=true&theme=dark)](https://github.com/Natanpivetta/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatanPivetta&langs_count=6&layout=compact)](https://github.com/NatanPivetta/github-readme-stats)
 <br>
