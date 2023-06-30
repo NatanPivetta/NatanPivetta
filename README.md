@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 ### ℹ️ Sobre mim
-Amante da tecnologia, atualmente estudando Sistemas para Internet no IFRS
+Amante da tecnologia, atualmente cursando Sistemas para Internet no IFRS
 <br>
 <picture align="center">
   <img style="padding: 2px;background-color:#0DD100" alt="ifrs" src="https://ifrs.edu.br/wp-content/uploads/2022/08/Logo-IFRS-cores-fundo-preto-Horizontal.png" width="200px" width="100px" >
